@@ -194,6 +194,12 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>juliacon.org/2024/store/index.html</loc>
+    <lastmod>2024-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>juliacon.org/2023/tickets/index.html</loc>
     <lastmod>2024-06-29</lastmod>
     <changefreq>monthly</changefreq>
